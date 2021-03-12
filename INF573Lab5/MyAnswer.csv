@@ -1,0 +1,10 @@
+Question 1:,Because it’s a colorful picture and the first dimension represents the RGB channels.
+Question 2:,y = 𝐶×(𝑈1 -𝐹1 +1)×(𝑈2 -𝐹2 +1)
+Question 3:,(a) Laplacian Kernel (b) Edges (c) Each color will get enhanced
+Question 4:,"Because if there are only linear functions,  no matter how many layers your neural network has, the output is a linear combination of the input, each layer is equivalent to matrix multiplication. Adding non-linear function is to increase the nonlinear relationship between the layers of the neural network. To make it more suitable to solve complicated problem."
+Question 5:,"Each 15*15 pixes take the max numbers inside them, so the input is downsampled"
+Question 6:,"6 layers include 4 convolution layers and 2 pooling layers. Following the order, the size for each filter is 5*5, 5*5, 4*4, 2*2"
+Question 7:,"(a) 12 iter/s 
+(b) Loss is for counting the errors and Accuracy is the percentage we receive real true result. 
+(c) No, they shouldn’t be equal. Because training it’s the procedure of learning so it should change more dramatically, but for validation, ideally it should always keep a good result. For loss, since we want to receive minimal number, Validation should be lower than the Training. For accuracy, it’s the opposite."
+Question 8:,My image shows a kaki
