@@ -17,12 +17,12 @@ work tracker:
 15/11/2020:
   1. Reading <<YOLOv4: Optimal Speed and Accuracy of Object Detection>> --- Bag of freebies
   2. Draw an mind mapping to help understand the structure and each mentioned strategies
-   ![image](https://github.com/winsa24/INF573-Project/blob/main/freebies(1).png)
+   ![image](https://github.com/winsa24/INF573-CV-Intro/blob/main/INF573Project/freebies(1).png)
 ******  
 16/11/2020:
   1. Continue to read <<YOLOv4: Optimal Speed and Accuracy of Object Detection>> --- Bag of freebies  
   2. Complete mind mapping  
-   ![image](https://github.com/winsa24/INF573-Project/blob/main/freebies(2).png)  
+   ![image](https://github.com/winsa24/INF573-CV-Intro/blob/main/INF573Project/freebies(2).png)  
 ******   
 18/11/2020:  
   1. Try to get the boundbox coordinate as a preparation to apply bokeh-effect.  
@@ -44,8 +44,8 @@ work tracker:
   1. test my own picture  
   2. applied blur effect  
   Results as follow:  
-  ![image](https://github.com/winsa24/INF573-Project/blob/main/results0.jpg)  
-  ![image](https://github.com/winsa24/INF573-Project/blob/main/blured.jpg)  
+  ![image](https://github.com/winsa24/INF573-CV-Intro/blob/main/INF573Project/result0.jpg)  
+  ![image](https://github.com/winsa24/INF573-CV-Intro/blob/main/INF573Project/blured.jpg)  
 ******
 28/11/2020:
   1.Try MaskRCNN, get error on training.   
@@ -84,5 +84,5 @@ work tracker:
 *****  
 16/12/2020:    
   Final code: https://github.com/thinhngo-x/portrait-mode   
-  Final slide: https://docs.google.com/presentation/d/13qDTnocyCO-xc3R9xh8sw_BdX4v_Yh5sykxQRlEWjts/edit?usp=sharing. 
+  Final slide: https://docs.google.com/presentation/d/13qDTnocyCO-xc3R9xh8sw_BdX4v_Yh5sykxQRlEWjts/edit?usp=sharing     
   Final report: https://www.overleaf.com/project/5fd8b5c0843d3c718e1f24bb
